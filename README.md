@@ -1,32 +1,26 @@
-# teaproject
-p# TeaProject ☕️
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Stars](https://img.shields.io/github/stars/doctorphone99/teaproject?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/doctorphone99/teaproject)
 
-**TeaProject** is an open-source initiative aimed at exploring decentralized project registration and token-based OSS validation.  
-It is built as a starter template for integration with the [Tea Protocol](https://tea.xyz).
+# Teaproject ☕️
 
----
-
-## ✨ Features
-- Powered by Node.js (can be easily swapped with Python/Rust/etc.)
-- Structured to meet OSS eligibility criteria
-- MIT Licensed
-- Future-ready for airdrop, staking & DAO involvement
+**Teaproject** adalah proyek open-source sederhana berbasis Node.js untuk mendemonstrasikan kontribusi developer dalam ekosistem [Tea Protocol](https://tea.xyz).  
+Dibuat sebagai langkah awal untuk kontribusi nyata dalam OSS dan membangun reputasi developer.
 
 ---
 
-## 📦 Technologies Used
-- Node.js (or any language of your choice)
-- GitHub (OSS public repo)
-- Tea Protocol
+## 🛠️ Fitur
+
+- Log ucapan selamat datang ke terminal
+- Menerima input dari CLI dan menampilkannya secara dinamis
+- Dibuat dengan semangat “open source untuk semua”
 
 ---
 
-## 🧠 Getting Started
+## 🚀 Cara Menjalankan
+
+Pastikan kamu sudah menginstall Node.js  
+Jalankan:
 
 ```bash
-# install dependencies (if any)
-npm install
-
-# run the project (example)
-node index.js
-rovide node
+node index.js [nama_kamu]
